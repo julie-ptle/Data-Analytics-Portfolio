@@ -1,2 +1,50 @@
-# Data-Analytics-Portfolio
-This portfolio showcases projects I completed as part of the Google Data Analytics Certificate program. Each project highlights skills in data cleaning, analysis, visualization, and communication using tools like SQL, R, Tableau, and spreadsheets.
+# Data Analytics Portfolio
+
+This portfolio showcases projects I completed as part of the Google Data Analytics Certificate program. Each project highlights skills in data cleaning, analysis, visualization, and communication using tools like SQL, R, Tableau, and spreadsheets.  
+
+---
+
+## Projects
+
+### SQL Project – Weather Trends Exploration
+**Tools:** SQL (BigQuery)  
+- Analyzed 2023 weather data to explore the relationship between wind speed and visibility.  
+- Replaced incorrect zero values with NULLs, used joins and subqueries.  
+- Identified strong links between low visibility and high wind speeds in certain regions.  
+
+---
+
+### Tableau Dashboard – Customer Service Metrics
+**Tools:** Tableau  
+- Built an interactive dashboard to track call center performance.  
+- Visualized first-call resolution, unresolved cases, and response times.  
+- Found a 15% gap in resolution rates during peak hours, supporting staffing changes.  
+
+---
+
+### R Project – Penguin Dataset Analysis
+**Tools:** R, tidyverse, ggplot2  
+- Cleaned and analyzed the Palmer Penguins dataset.  
+- Created scatter plots and histograms to visualize relationships.  
+- Showed species clusters and correlation between body mass and flipper length.  
+
+---
+
+### Spreadsheet Project – Sales Report Automation
+**Tools:** Excel (pivot tables, XLOOKUP, SUMIFS)  
+- Cleaned duplicate entries and standardized formats.  
+- Automated recurring weekly sales reports with pivot tables.  
+- Reduced manual reporting time by 50% while improving accuracy.  
+
+---
+
+### Capstone Project – Pending
+**Tools:** 
+
+---
+
+## Contact
+- **Email:** julietle15@gmail.com  
+- **LinkedIn:** [linkedin.com/in/julie-tle](https://www.linkedin.com/in/julie-tle/) 
+
+---
