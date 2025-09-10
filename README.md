@@ -32,6 +32,7 @@ This portfolio showcases projects I completed as part of the Google Data Analyti
 
 ### Spreadsheet Project – Sales Report Automation
 **Tools:** Excel (unique, SUMIFS, custom formulas)  
+[Download the spreadsheet](Example Spreadsheet.xlsx) 
 - Built a new “Revenue” attribute and applied formulas to calculate daily revenue.
 - Used SUMIF formulas to total sales and revenue by product type (cookies, cupcakes, muffins, pies).
 - Produced a clear summary table that highlighted cupcakes as the best-seller and pies as the highest revenue driver.
