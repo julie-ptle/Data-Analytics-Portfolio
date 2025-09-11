@@ -30,7 +30,7 @@ This portfolio showcases projects I completed as part of the Google Data Analyti
 
 ---
 
-### Spreadsheet Project – Sales Report Automation
+### Spreadsheet Project – Sales Report Summary
 **Tools:** Excel (unique, SUMIFS, custom formulas)  
 [Download Spreadsheet](https://github.com/julie-ptle/Data-Analytics-Portfolio/blob/88ae79f094bc6df8dbd9a0b66918ae1088f75aee/Example%20Spreadsheet.xlsx)
 
